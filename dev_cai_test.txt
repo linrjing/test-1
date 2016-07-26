@@ -1,2 +1,3 @@
 new folk test!
 test amend commit
+test change commit information on github again
