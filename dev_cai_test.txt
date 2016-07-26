@@ -1,1 +1,2 @@
 new folk test!
+test amend commit
